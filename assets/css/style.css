@@ -219,7 +219,7 @@ a {
 }
 
 .mode-day {
-	position: absolute; /* O absolute, fixed, según necesites */
+	position: absolute;
 	left:   1rem;
 	top: 2rem;
 	z-index: 999;
@@ -353,7 +353,7 @@ nav {
 	display: flex;
 	height: 100vh;
 	min-height: 700px;
-	background-image: url(/assets/images/background/305812.5f9e6cbd.160x160o.81afc03ae866.gif  ); 
+	background-image: url(https://github-production-user-asset-6210df.s3.amazonaws.com/160687644/436158194-e20f187e-a24e-4bac-adab-3e3a950f5091.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250422%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250422T155437Z&X-Amz-Expires=300&X-Amz-Signature=677f8d6e47bc1d543b0be952b01b8bb386bb10ce043d469d9e795f78f2883570&X-Amz-SignedHeaders=host ); 
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover; 
