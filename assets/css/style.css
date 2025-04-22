@@ -750,9 +750,9 @@ h3 {
 
 .project-box-imgg {
     width: 100%;
-    height: 250px; /* Todas las imágenes tendrán la misma altura */
+    height: 250px; 
     border-radius: 13px;
-    object-fit: cover; /* Mantiene la proporción sin distorsión */
+    object-fit:fill; 
 }
 
 .project-box-info {
