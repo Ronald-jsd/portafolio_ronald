@@ -353,7 +353,7 @@ nav {
 	display: flex;
 	height: 100vh;
 	min-height: 700px;
-	background-image: url('/assets/images/background/305812.5f9e6cbd.160x160o.81afc03ae866.gif'); 
+	background-image: url(https://github-production-user-asset-6210df.s3.amazonaws.com/160687644/436162424-f8706f36-195d-470b-8cda-42f9f1e39418.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250422%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250422T160534Z&X-Amz-Expires=300&X-Amz-Signature=16ec8141e96dc972117550c97d2a54382f5c8efd556c7a440e5fdb448d0e920d&X-Amz-SignedHeaders=host ); 
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover; 
