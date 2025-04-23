@@ -17,6 +17,7 @@
 	
 }
 
+/**/
 @keyframes move {
     100% {
         transform: translate3d(0, 0, 1px) rotate(360deg);
@@ -34,8 +35,8 @@
 }
 
 .background span {
-    width: 7vmin;
-    height: 7vmin;
+    width: 8vmin;
+    height: 8vmin;
     border-radius: 7vmin;
     backface-visibility: hidden;
     position: absolute;
@@ -284,8 +285,7 @@ nav {
 }
 
 .nav_list:hover{
-	background-color: #a910a444;
-	transition: 0.2s;
+ 	transition: 0.2s;
 }
 
 .nav-link {
@@ -406,10 +406,11 @@ nav {
 .typedText {
 	text-transform: capitalize;
 	color: #e6e919;
+
 }
 
 .featured-text-info {
-	font-size: 20px;
+	font-size: 1.3rem;
 	margin-bottom: 30px;
 	color: white;
 	width: 60%;
@@ -996,7 +997,7 @@ footer {
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		width: 100%;
+		width: 105%;
 		min-height: 490px;
 		height: 50vh;
 		transition: .3s;
@@ -1063,6 +1064,11 @@ footer {
 
 	.featured-text-info {
 		width: auto;
+		font-size: 1rem;
+	}
+
+	.typedText{
+		font-size: 2.4rem;
 	}
 }
 

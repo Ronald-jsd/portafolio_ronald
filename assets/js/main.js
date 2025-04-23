@@ -1,6 +1,6 @@
 /* ----- TYPING EFFECT ----- */
 var typingEffect = new Typed(".typedText", {
-    strings: ["Student &#127891;" ,"Developer &#128187;", "Back-end Jr. &#128736;", "Ronald! &#128522;"],
+    strings: ["Student &#127891;" ,"Developer &#128187;", "Back-end &#128736;", "Ronald! &#128522;"],
     loop: true,
     typeSpeed: 100,
     backSpeed: 80,
